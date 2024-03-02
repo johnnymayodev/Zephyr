@@ -1,0 +1,9 @@
+# Python
+__pycache__
+venv
+
+# Junk
+.DS_Store
+
+# Zephyr
+.index.html
